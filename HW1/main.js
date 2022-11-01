@@ -4,7 +4,9 @@ let variable1 = 'hello', variable2 = 'owu', variable3 = 'com', variable4 = 'ua',
 
 console.log(`${variable1}\n${variable2}\n${variable3}\n${variable4}\n${variable5}\n${variable6}\n${variable7}\n${variable8}\n${variable9}\n${variable10}\n${variable11}\n${variable12}\n${variable13}`);
 
-let firstName = 'Тетяна', middleName = 'Миколаївна', lastName = 'Задорожня';
+let firstName = 'Тетяна';
+let middleName = 'Миколаївна';
+let lastName = 'Задорожня';
 person = lastName + ' ' + firstName + ' ' + middleName;
 console.log(person);
 
@@ -13,7 +15,7 @@ console.log(typeof(a));
 console.log(typeof(b));
 console.log(typeof(c));
 
-let Name = prompt('Enter name');
+let name = prompt('Enter name');
 let middleName1 = prompt('Enter middle name');
 let age = prompt('Enter age');
-console.log(Name + ' ' + middleName1 + ' ' + age);
+console.log(name + ' ' + middleName1 + ' ' + age);
