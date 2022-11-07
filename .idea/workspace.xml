@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW1 upgrade">
-      <change afterPath="$PROJECT_DIR$/HW2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/main.js" afterDir="false" />
+    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW2">
+      <change afterPath="$PROJECT_DIR$/HW3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +19,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,18 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Okten_JS/HW2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Okten_JS/HW4&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS" />
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW3" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +70,13 @@
       <workItem from="1667242994755" duration="3348000" />
       <workItem from="1667249641899" duration="467000" />
       <workItem from="1667325811479" duration="64000" />
-      <workItem from="1667412613345" duration="3543000" />
+      <workItem from="1667412613345" duration="3777000" />
+      <workItem from="1667494670190" duration="10078000" />
+      <workItem from="1667720472541" duration="758000" />
+      <workItem from="1667721260648" duration="197000" />
+      <workItem from="1667721484280" duration="3990000" />
+      <workItem from="1667833556844" duration="8000" />
+      <workItem from="1667845564412" duration="1961000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1667246220455</created>
@@ -82,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667325863670</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW2">
+      <created>1667416341191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667416341191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1" />
     <MESSAGE value="HW1 upgrade" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1 upgrade" />
+    <MESSAGE value="HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
   </component>
 </project>
