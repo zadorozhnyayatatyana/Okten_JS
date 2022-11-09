@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW2">
-      <change afterPath="$PROJECT_DIR$/HW3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/main.js" afterDir="false" />
+    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/HW4/additional/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/additional/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HW4/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HW4/main.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HW4/main.js" afterDir="false" />
@@ -17,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -37,18 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Okten_JS/HW4&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Okten_JS/HW4/additional",
+    "list.type.of.created.stylesheet": "CSS"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4\additional" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW3" />
@@ -76,7 +77,14 @@
       <workItem from="1667721260648" duration="197000" />
       <workItem from="1667721484280" duration="3990000" />
       <workItem from="1667833556844" duration="8000" />
-      <workItem from="1667845564412" duration="1961000" />
+      <workItem from="1667845564412" duration="2025000" />
+      <workItem from="1667893763911" duration="5000" />
+      <workItem from="1667893814334" duration="143000" />
+      <workItem from="1667924153420" duration="271000" />
+      <workItem from="1667927896501" duration="13000" />
+      <workItem from="1668003276503" duration="4000" />
+      <workItem from="1668003291784" duration="50000" />
+      <workItem from="1668021367355" duration="4041000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1667246220455</created>
@@ -106,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667416341191</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW3">
+      <created>1667848653065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667848653065</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +142,7 @@
     <MESSAGE value="HW1" />
     <MESSAGE value="HW1 upgrade" />
     <MESSAGE value="HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
 </project>
