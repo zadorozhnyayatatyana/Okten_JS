@@ -32,7 +32,7 @@ writeArr(arr);
 
 // - створити функцію яка створює параграф з текстом. Текст задати через аргумент
 function writeParagraph(str) {
-    document.write(`<h1>${str}</h1>`)
+    document.write(`<p>${str}</p>`)
 }
 
 document.write(`параграф <br>`);

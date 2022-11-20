@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW4">
-      <change afterPath="$PROJECT_DIR$/HW4/additional/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW4/additional/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW5/main.js" afterDir="false" />
+    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW5">
+      <change afterPath="$PROJECT_DIR$/HW6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW5/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Okten_JS/HW5&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Okten_JS/HW6",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW6" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW5" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4\additional" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS" />
-      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
@@ -91,7 +90,11 @@
       <workItem from="1668449784413" duration="1016000" />
       <workItem from="1668450963344" duration="11000" />
       <workItem from="1668450983794" duration="1130000" />
-      <workItem from="1668452705523" duration="3587000" />
+      <workItem from="1668452705523" duration="3713000" />
+      <workItem from="1668498669774" duration="19000" />
+      <workItem from="1668499463667" duration="44000" />
+      <workItem from="1668506817054" duration="76000" />
+      <workItem from="1668932703205" duration="12277000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1667246220455</created>
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668026045123</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW5">
+      <created>1668456340156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668456340156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +168,7 @@
     <MESSAGE value="HW2" />
     <MESSAGE value="HW3" />
     <MESSAGE value="HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW4" />
+    <MESSAGE value="HW5" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW5" />
   </component>
 </project>
