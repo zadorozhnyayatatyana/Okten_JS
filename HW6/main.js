@@ -33,7 +33,6 @@ let dirtyString = ' dirty string   ';
 
 console.log('Є "брудна" стрінга let str = \' dirty string   \' . Почистити її від зайвих пробілів');
 console.log(dirtyString.trim());
-console.log(dirtyString.replace(' ', ''));
 
 // - Напишіть функцію stringToarray(str), яка перетворює рядок на масив слів.
 //     let str = 'Ревуть воли як ясла повні';
@@ -187,4 +186,5 @@ let pack = deck.reduce((cards, card) => {
 }, {spades: [], diamonds: [], hearts: [], clubs: []});
 
 console.log(pack);
+
 
