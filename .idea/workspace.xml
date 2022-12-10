@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW6">
+    <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW9">
+      <change afterPath="$PROJECT_DIR$/additional/AD7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/AD7/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW6/main.js" afterDir="false" />
     </list>
@@ -39,18 +41,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Okten_JS/HW6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Okten_JS/HW9&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW9" />
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW8" />
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\additional\AD7" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW6" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW5" />
-      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4\additional" />
-      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
-      <recent name="C:\Users\User\IdeaProjects\Okten_JS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
@@ -96,7 +98,18 @@
       <workItem from="1669041292846" duration="28000" />
       <workItem from="1669054401437" duration="155000" />
       <workItem from="1669054705552" duration="153000" />
-      <workItem from="1669055808657" duration="46000" />
+      <workItem from="1669055808657" duration="183000" />
+      <workItem from="1669187825320" duration="2593000" />
+      <workItem from="1669190721060" duration="1539000" />
+      <workItem from="1669226228350" duration="472000" />
+      <workItem from="1669671166911" duration="2784000" />
+      <workItem from="1669735167337" duration="3788000" />
+      <workItem from="1670267121136" duration="10046000" />
+      <workItem from="1670443460747" duration="1136000" />
+      <workItem from="1670444782643" duration="289000" />
+      <workItem from="1670445518580" duration="207000" />
+      <workItem from="1670513869267" duration="1097000" />
+      <workItem from="1670532724987" duration="6780000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1667246220455</created>
@@ -154,7 +167,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668949301664</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HW6-">
+      <created>1669055864098</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669055864098</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HW8">
+      <created>1670277212315</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670277212315</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HW9">
+      <created>1670539537870</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670539537870</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +213,9 @@
     <MESSAGE value="HW4" />
     <MESSAGE value="HW5" />
     <MESSAGE value="HW6" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW6" />
+    <MESSAGE value="HW6-" />
+    <MESSAGE value="HW8" />
+    <MESSAGE value="HW9" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW9" />
   </component>
 </project>

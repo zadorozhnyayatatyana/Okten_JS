@@ -187,4 +187,45 @@ let pack = deck.reduce((cards, card) => {
 
 console.log(pack);
 
+// function strArr(str, separator) {
+//     let newArr = [];
+//     console.log(str);
+//     while (str.length > 0) {
+//         let position = str.indexOf(separator);
+//         if (position >= 0) {
+//             let pod = str.slice(0, position);
+//             newArr.push(pod);
+//             str = str.substring(position + 1, str.length);
+//
+//         } else {
+//             newArr.push(str);
+//             str = '';
+//         }
+//     }
+//     return newArr
+// }
+//
+// let ts = 'fff,fef,d,g';
+//
+// let ar = strArr(ts, ',');
+// console.log(ar);
+
+// - Напишите функцию cutString(str, n), которая делит строку на подстроки, состоящие из n символов.
+// document.writeln(cutString('наслаждение',3)) // [нас,лаж,ден,ие]
+
+function cutString(str, n){
+    let newArr = [];
+    while (str.length > 0) {
+            let pod = str.slice(0, n);
+            newArr.push(pod);
+            str = str.substring(n , str.length);
+    }
+    newArr.join(',')
+    return newArr
+}
+
+let ts = 'наслаждение';
+
+let ar = cutString(ts, '2');
+console.log(ar);
 
