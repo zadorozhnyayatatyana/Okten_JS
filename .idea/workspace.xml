@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0255a80-2001-4b09-a8c9-49f3aab0bffa" name="Changes" comment="HW9">
-      <change afterPath="$PROJECT_DIR$/additional/AD7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/AD7/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/post_details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/user_details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniProject/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,22 +48,37 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Okten_JS/HW9&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Okten_JS/MiniProject&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\MiniProject" />
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\test" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW9" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW8" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\additional\AD7" />
-      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW6" />
-      <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Okten_JS\test" />
       <recent name="C:\Users\User\IdeaProjects\Okten_JS\HW4" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.user-details.html">
+    <configuration name="user-details.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Okten_JS/MiniProject/user-details.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="user_details.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/MiniProject/user_details.js" working-dir="$PROJECT_DIR$/MiniProject">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.user-details.html" />
+        <item itemvalue="Node.js.user_details.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -110,6 +132,10 @@
       <workItem from="1670445518580" duration="207000" />
       <workItem from="1670513869267" duration="1097000" />
       <workItem from="1670532724987" duration="6780000" />
+      <workItem from="1670676493996" duration="15756000" />
+      <workItem from="1671301000581" duration="10408000" />
+      <workItem from="1671316509560" duration="1237000" />
+      <workItem from="1671380759050" duration="3388000" />
     </task>
     <task id="LOCAL-00001" summary="HW1">
       <created>1667246220455</created>
@@ -188,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670539537870</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW9">
+      <created>1670676504996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670676504996</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
